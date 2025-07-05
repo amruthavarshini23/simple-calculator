@@ -36,7 +36,7 @@ It was developed as part of my Web Development Internship at **InternPe**.
 ## 🎥 Demo Video
 
 🎬 A demo video has been posted on LinkedIn as part of the submission.  
-🔗🔗 [LinkedIn Post Link – Coming Soon]
+🔗🔗 https://www.linkedin.com/posts/activity-7347140989259530242-3xTa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvlVXABl18-Cyb2TKKk1l4zjjRx-cFEEbg]
 
 ---
 
